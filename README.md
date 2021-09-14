@@ -1,2 +1,15 @@
-# ddos-bypass
-sirapop bypass
+ - How to install on linux
+- sudo apt install nodejs
+- sudo apt install npm
+- npm install cloudscraper
+- How to install on linux
+- Install Nodejs Windows
+- https://nodejs.org/en/download/
+- And Open Cmd 
+- npm install cloudscraper
+- MacOs
+- How To Run
+- node index.js
+- How To Attack
+- node index.js Url Time Treads raw/proxy.txt
+- node index.js http://example.com/ 60 120 raw
